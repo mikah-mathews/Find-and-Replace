@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FindNReplace\FindNReplace.csproj" />  
+    <ProjectReference Include="..\FindNReplace\FindNReplace.csproj" />
   </ItemGroup>
 
 </Project>
